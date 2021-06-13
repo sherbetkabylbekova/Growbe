@@ -1,0 +1,421 @@
+@media (max-width: 992px) {
+    /*769 - 992*/
+    .owl-stage {
+        display: none;
+    }
+
+    .hero {
+        background: none;
+    }
+
+    .hero-title {
+        font-size: 50px;
+        padding-top: 55px;
+    }
+
+    .hero-title:before {
+        width: 270px;
+    }
+
+    .services-title {
+        font-size: 40px;
+    }
+
+    .seo {
+        background: none;
+    }
+
+    .seo-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .seo-flex {
+        display: unset;
+        text-align: center;
+    }
+
+    .services {
+        padding: 92px 0 150px;
+    }
+
+    .seo-box {
+        text-align: center;
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+}
+
+.check {
+    background: none;
+}
+
+.month:before {
+    left: -10px;
+}
+
+.our-btn {
+    line-height: 20px;
+}
+
+.copy:before {
+    width: 970px;
+}
+
+@media (max-width: 768px) {
+    /*481 - 768*/
+    .col-4 {
+        width: 100%;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+
+    .col-3 {
+        width: 100%;
+    }
+
+    .header-btn {
+        font-size: 10px;
+        width: 85px;
+    }
+
+    .hero-title {
+        font-size: 30px;
+        padding: 5px;
+    }
+
+    .hero-desc {
+        font-size: 12px;
+        line-height: 18px;
+        margin: 8px 0 15px;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .header-menu {
+        display: none;
+    }
+
+    .header-right-side {
+        display: none;
+    }
+
+    .solution-title {
+        font-size: 35px;
+        line-height: 30px;
+    }
+
+    .solution-desc {
+        line-height: 130%;
+        font-size: 14px;
+    }
+
+    .header-btn {
+        font-size: 10px;
+        width: 102px;
+    }
+
+    .hero-title:before {
+        width: 226px;
+    }
+
+    .solution {
+        padding: 50px 0;
+    }
+
+    .features-title {
+        font-size: 21px;
+        line-height: 16px;
+        margin-top: 15px;
+    }
+
+    .features {
+        padding: 45px 0 70px;
+    }
+
+    .services-desc {
+        line-height: 125%;
+        padding: 12px 0 54px;
+    }
+
+    .services {
+        padding: 63px 0 66px;
+    }
+
+    .btn {
+        font-size: 10px;
+        line-height: 51%;
+        padding: 15px 29px 15px 29px;
+    }
+
+    .box-title {
+        font-size: 20px;
+        line-height: 10px;
+    }
+
+    .seo-title {
+        font-size: 32px;
+        line-height: 33px;
+    }
+
+    .seo {
+        padding: 22px 0;
+    }
+
+    .seo-icon {
+        width: 72px;
+        height: 74px;
+    }
+
+    .social-title {
+        font-size: 18px;
+        line-height: 110%;
+    }
+
+    .social-desc {
+        line-height: 120%;
+    }
+
+    .facts-title {
+        font-size: 50px;
+    }
+
+    .services-title {
+        font-size: 36px;
+    }
+
+    .facts-contents {
+        flex-direction: column;
+        padding: 20px 0;
+    }
+
+    .check-title {
+        font-size: 34px;
+        line-height: 142%;
+    }
+
+    .web {
+        padding: 15px 8px 16px;
+    }
+
+    .email {
+        padding: 12px 8px 16px;
+    }
+
+    .btn-check {
+        padding: 10px 28px 10px 28px;
+    }
+
+    .check {
+        padding: 84px 0;
+    }
+
+    .box-plans {
+        padding: 18px 19px 19px 28px;
+    }
+
+    .month {
+        font-size: 50px;
+        line-height: 118%;
+    }
+
+    .month:before {
+        left: 135px;
+        top: 0;
+    }
+
+    .our-plans {
+        padding: 89px 0 78px;
+    }
+
+    .team-title {
+        font-size: 32px;
+    }
+
+    .clients-title {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .news {
+        padding: 6px 0 60px;
+    }
+
+    .copy:before {
+        width: 454px;
+    }
+}
+
+@media (max-width: 480px) {
+    /*320 - 480*/
+    .hero-title {
+        font-size: 23px;
+        line-height: 33px;
+    }
+
+    .hero-title:before {
+        display: none;
+    }
+
+    .header-btn {
+        font-size: 7px;
+        width: 84px;
+    }
+
+    .solution-title {
+        font-size: 25px;
+        line-height: 24px;
+    }
+
+    .solution-desc {
+        line-height: 120%;
+        font-size: 12px;
+    }
+
+    .header-btn {
+        font-size: 10px;
+        width: 106px;
+    }
+
+    .services-title {
+        font-size: 22px;
+    }
+
+    .services-desc {
+        line-height: 118%;
+        padding: 0;
+    }
+
+    .btn {
+        font-size: 9px;
+        padding: 11px 22px 11px 22px;
+    }
+
+    .seo-title {
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+    .seo-icon {
+        width: 61px;
+        height: 48px;
+    }
+
+    .facts-title {
+        font-size: 31px;
+    }
+
+    .check {
+        padding: 0;
+    }
+
+    .check-title {
+        font-size: 25px;
+        line-height: 106%;
+    }
+
+    .web {
+        padding: 0;
+        width: 100px;
+        height: 38px;
+        font-size: 10px;
+    }
+
+    .email {
+        padding: 0;
+        width: 100px;
+        height: 38px;
+        font-size: 10px;
+    }
+
+    .btn-check {
+        font-size: 10px;
+        line-height: 113%;
+        margin-left: 10px;
+        padding: 15px 20px;
+    }
+
+    .our-plans-title {
+        font-size: 35px;
+    }
+
+    .month:before {
+        left: 55px;
+    }
+
+    .team-title {
+        font-size: 23px;
+    }
+
+    .news-title {
+        font-size: 26px;
+        line-height: 92%;
+    }
+
+    .owl-dots {
+        display: none;
+    }
+
+    .clients {
+        padding: 25px 0 50px
+    }
+
+    .news {
+        padding: 0;
+    }
+
+    .footer {
+        padding: 20px 0 10px;
+    }
+
+.footer-info{
+    padding: 0;
+    margin: 10px 0 15px;
+    font-size: 12px;
+}
+    .box-footer {
+        margin-bottom: 10px;
+    }
+
+.footer-title{
+    padding: 0;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+.footer-nav{
+    line-height: 165%;
+    font-size: 10px;
+}
+.footer-title-more{
+    padding: 0;
+    font-size: 18px;
+}
+    .copy:before {
+        width: 289px;
+        top: 0;
+    }
+    .copy {
+        font-size: 10px;
+    }
+    .local{
+        font-size: 14px;
+    }
+    .email-footer{
+        font-size: 14px;
+        padding: 0;
+        margin: 10px 0;
+    }
+    .phone {
+        font-size: 14px;}
+
+
+
+
+
+
+}

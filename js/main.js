@@ -4,7 +4,7 @@ $(document).ready(function () {
         margin: 60,
         loop: true,
         center: true,
-        stagePadding: 450,
+        stagePadding: 300,
 
     });
 });
